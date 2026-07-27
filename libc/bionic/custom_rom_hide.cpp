@@ -61,8 +61,7 @@ static const PrefixEntry kDirParents[] = {
 };
 
 static const PrefixEntry kProcFilterKeywords[] = {
-    PE("lineage"), PE("Lineage"), PE("evolution"), PE("Evolution"),
-    PE("omnirom"), PE("aospa"),
+    PE("lineage"), PE("Lineage"), PE("alch3my"), PE("Alch3my"),
     { nullptr, 0 }
 };
 
