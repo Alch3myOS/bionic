@@ -51,7 +51,7 @@ static const char* const kDirParents[] = {
 
 static const char* const kProcFilterKeywords[] = {
     "lineage", "Lineage", "crdroid", "crDroid", "omnirom",
-    "aospa", "lunaris",
+    "aospa", "lunaris", "alch3my", "Alch3my",
     nullptr
 };
 
