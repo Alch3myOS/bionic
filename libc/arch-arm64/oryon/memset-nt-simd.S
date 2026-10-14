@@ -34,6 +34,9 @@
  */
 #include <private/bionic_asm.h>
 
+#include <private/bionic_asm_note.h>
+NOTE_GNU_PROPERTY()
+
 #define A_q	q0
 #define A_s	s0
 #define dstin	x0
